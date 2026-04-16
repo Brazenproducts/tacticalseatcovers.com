@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://tacticalseatcovers.com/</loc><lastmod>2026-04-16</lastmod></url>
-  <url><loc>https://tacticalseatcovers.com/jeep-covers.html</loc><lastmod>2026-04-16</lastmod></url>
-  <url><loc>https://tacticalseatcovers.com/military-grade.html</loc><lastmod>2026-04-16</lastmod></url>
-  <url><loc>https://tacticalseatcovers.com/about.html</loc><lastmod>2026-04-16</lastmod></url>
+  <url><loc>https://tacticalseatcovers.com/</loc><lastmod>2026-04-16</lastmod><priority>1.0</priority></url>
+  <url><loc>https://tacticalseatcovers.com/jeep-wrangler.html</loc><lastmod>2026-04-16</lastmod><priority>0.9</priority></url>
+  <url><loc>https://tacticalseatcovers.com/jeep-gladiator.html</loc><lastmod>2026-04-16</lastmod><priority>0.9</priority></url>
+  <url><loc>https://tacticalseatcovers.com/toyota-tacoma.html</loc><lastmod>2026-04-16</lastmod><priority>0.9</priority></url>
+  <url><loc>https://tacticalseatcovers.com/toyota-4runner.html</loc><lastmod>2026-04-16</lastmod><priority>0.9</priority></url>
+  <url><loc>https://tacticalseatcovers.com/ford-bronco.html</loc><lastmod>2026-04-16</lastmod><priority>0.9</priority></url>
 </urlset>
